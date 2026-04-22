@@ -13,7 +13,7 @@ while True:
     print("\n ------ CONTACT MANAGER -------")
     print("1. Add contact")
     print("2. View Contact")
-    print("3.Search contact")
+    print("3. Search contact")
     print("4. Delete Contact")
     print("5. Exit ")
 
